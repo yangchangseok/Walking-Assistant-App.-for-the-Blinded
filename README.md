@@ -1,1 +1,1 @@
-# Safe-Distance-Application
+안전 거리앱 (시각장애인의 보행 보조 앱) 
